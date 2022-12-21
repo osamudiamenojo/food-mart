@@ -8,4 +8,5 @@ import org.springframework.boot.autoconfigure.domain.EntityScan;
 @AllArgsConstructor
 public class User {
     private String firstName;
+    private String lastName;
 }
